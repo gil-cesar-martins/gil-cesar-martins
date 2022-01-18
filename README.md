@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Gil César
 - 🔭 I’m currently working on FULL STACK DEVELOPMENT
-- 🌱 I’m currently learning C# .NET
-- 🤔 I’m looking for help with GODOT ENGINE v3.4
+- 🌱 I’m currently learning Cloud Computing
+- 🤔 I’m looking for help AWS.
 
 <div>
   <a href ="https://beacons.ai/gil-cesar-martins">
