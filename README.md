@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Gil César
-- 🔭 I’m currently working on FULL STACK DEVELOPMENT
+- 🔭 I’m currently working on Business Intelligence 
 - 🌱 I’m currently learning Big Data with Python and R
-- 🤔 I’m looking for help AWS.
 
 <div>
   <a href ="https://beacons.ai/gil-cesar-martins">
