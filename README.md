@@ -4,12 +4,25 @@
     Bem-vindo(a) ao meu espaço! Sou um profissional focado em transformar dados em soluções inteligentes e criar aplicações interativas.
   </p>
 
-  <a href="https://www.linkedin.com/in/gil-cesa-martins/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+### Conecte-se comigo:
+
+<p align="left">
+  <a href="https://twitter.com/SEU_USUARIO_TWITTER" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto: contato@rockberrydata.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="https://www.instagram.com/SEU_USUARIO_INSTAGRAM/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+  <a href="https://www.linkedin.com/in/SEU_USUARIO_LINKEDIN/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+### Atualmente aprendendo:
+
+<p align="left">
+  <img align="center" src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+</p>
 </div>
 
 <br>
@@ -18,7 +31,9 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 
-<p align="center">
+### 🛠️ Tecnologias e Ferramentas
+
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/FlutterFlow-4983F8?style=for-the-badge&logo=flutter&logoColor=white" alt="FlutterFlow"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
