@@ -1,11 +1,3 @@
-<div align="center">
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+%E2%80%8B+Ol%C3%A1%2C+eu+sou+SEU+NOME;Desenvolvedor+e+Analista+de+Dados;Apaixonado+por+Cloud+%26+IA" alt="Typing SVG" />
-  </a>
-  
-</div>
-
 <table>
   <tr>
     <td valign="top" width="50%">
@@ -56,33 +48,3 @@
     </td>
   </tr>
 </table>
-
----
-
-### 💻 Tecnologias e Ferramentas
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,flutter,docker,firebase,postgres,gcp,idea&perline=4" />
-  </a>
-</p>
-> **Nota:** Usei `gcp` (Google Cloud) para representar BigQuery e Colab, e `idea` para o ecossistema de desenvolvimento. Para Streamlit, o emblema abaixo é a melhor opção.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-</p>
-
----
-
-### 📊 Atividade no GitHub
-
-<div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img 
-      align="center" 
-      height="250px"
-      src="https://github-readme-activity-graph.vercel.app/graph?username=gil-cesar-martins&bg_color=0d1117&color=ffffff&line=00BFFF&point=ffffff&area=true&hide_border=true" 
-      alt="Gráfico de Atividade"
-    />
-  </a>
-</div>
