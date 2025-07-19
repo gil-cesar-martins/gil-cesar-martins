@@ -1,4 +1,4 @@
-#Gil César - Desenvolvedor Python
+# Gil César - Desenvolvedor Python
 
 Olá! 👋 Sou Gil César, um desenvolvedor Python apaixonado por criar soluções inovadoras e eficientes. Abaixo, você pode encontrar mais informações sobre minhas habilidades e como se conectar comigo.
 
