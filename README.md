@@ -1,18 +1,13 @@
 <div align="center">
 
-  <h1>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+%E2%80%8B+Ol%C3%A1%2C+eu+sou+[SEU NOME];Desenvolvedor+e+Analista+de+Dados;Apaixonado+por+Cloud+%26+IA" alt="Typing SVG" />
-    </a>
-  </h1>
   <p align="center">
     Bem-vindo(a) ao meu espaço! Sou um profissional focado em transformar dados em soluções inteligentes e criar aplicações interativas.
   </p>
 
-  <a href="https://www.linkedin.com/in/[SEU-USUARIO-LINKEDIN]/" target="_blank">
+  <a href="https://www.linkedin.com/in/gil-cesa-martins/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:[SEU-EMAIL@gmail.com]" target="_blank">
+  <a href="mailto: contato@rockberrydata.com.br" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
@@ -43,7 +38,7 @@
     <img 
       align="center" 
       height="170px"
-      src="https://github-readme-stats.vercel.app/api?username=[gil-cesar-martins]&show_icons=true&theme=transparent&bg_color=0d1117&title_color=00BFFF&text_color=FFF&icon_color=00BFFF&border_color=00BFFF"
+      src="https://github-readme-stats.vercel.app/api?username=gil-cesar-martins&show_icons=true&theme=transparent&bg_color=0d1117&title_color=00BFFF&text_color=FFF&icon_color=00BFFF&border_color=00BFFF"
       alt="Estatísticas do GitHub"
     />
   </a>
@@ -51,7 +46,7 @@
     <img 
       align="center" 
       height="170px"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=[gil-cesar-martins]&layout=compact&theme=transparent&bg_color=0d1117&title_color=00BFFF&text_color=FFF&icon_color=00BFFF&border_color=00BFFF" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gil-cesar-martins&layout=compact&theme=transparent&bg_color=0d1117&title_color=00BFFF&text_color=FFF&icon_color=00BFFF&border_color=00BFFF" 
       alt="Linguagens mais usadas"
     />
   </a>
@@ -62,7 +57,7 @@
     <img 
       align="center" 
       height="250px"
-      src="https://github-readme-activity-graph.vercel.app/graph?username=[SEU-USUARIO-GITHUB]&bg_color=0d1117&color=ffffff&line=00BFFF&point=ffffff&area=true&hide_border=true" 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=gil-cesar-martins&bg_color=0d1117&color=ffffff&line=00BFFF&point=ffffff&area=true&hide_border=true" 
       alt="Gráfico de Atividade"
     />
   </a>
