@@ -43,7 +43,7 @@
     <img 
       align="center" 
       height="170px"
-      src="https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO-GITHUB]&show_icons=true&theme=transparent&bg_color=0d1117&title_color=00BFFF&text_color=FFF&icon_color=00BFFF&border_color=00BFFF"
+      src="https://github-readme-stats.vercel.app/api?username=[gil-cesar-martins]&show_icons=true&theme=transparent&bg_color=0d1117&title_color=00BFFF&text_color=FFF&icon_color=00BFFF&border_color=00BFFF"
       alt="Estatísticas do GitHub"
     />
   </a>
@@ -51,7 +51,7 @@
     <img 
       align="center" 
       height="170px"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO-GITHUB]&layout=compact&theme=transparent&bg_color=0d1117&title_color=00BFFF&text_color=FFF&icon_color=00BFFF&border_color=00BFFF" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=[gil-cesar-martins]&layout=compact&theme=transparent&bg_color=0d1117&title_color=00BFFF&text_color=FFF&icon_color=00BFFF&border_color=00BFFF" 
       alt="Linguagens mais usadas"
     />
   </a>
