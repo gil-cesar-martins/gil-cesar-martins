@@ -1,88 +1,20 @@
-<div align="center">
+# Perfil Profissional: Gil César - Desenvolvedor Python
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+%E2%80%8B+Ol%C3%A1%2C+eu+sou+GIL+CÉSAR;Desenvolvedor+e+Analista+de+Dados;Apaixonado+por+Cloud+%26+IA" alt="Typing SVG" />
-  </a>
+Olá! 👋 Sou Gil César, um desenvolvedor Python apaixonado por criar soluções inovadoras e eficientes. Abaixo, você pode encontrar mais informações sobre minhas habilidades e como se conectar comigo.
 
-</div>
+### Redes Sociais
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gil-cesar-martins)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rockberrydata)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/RockberryData)
 
-      ### 👨‍💻 Sobre mim
-      Sou um profissional focado em transformar dados em soluções inteligentes e criar aplicações interativas. Busco sempre aprender novas tecnologias para resolver problemas complexos de forma eficiente.
-      <br><br>
+### Tecnologias que domino
 
-      ### 🤝 Conecte-se comigo
-      <p align="left">
-        <a href="https://www.linkedin.com/in/gil-cesar-martins/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-        </a>
-        <a href="mailto:contato@rockberrydata.com.br" target="_blank">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-        </a>
-        <a href="https://twitter.com/rockberrydata" target="_blank">
-          <img src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=xcorp&logoColor=white" alt="Twitter"/>
-        </a>
-      </p>
-      <br>
+Aqui estão algumas das tecnologias e ferramentas com as quais tenho experiência:
 
-      ### 💡 Atualmente aprendendo
-      <p align="left">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-      </p>
-
-    </td>
-    <td valign="top" width="50%">
-
-      <p align="center">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img
-            align="center"
-            src="https://github-readme-stats.vercel.app/api?username=gil-cesar-martins&show_icons=true&theme=transparent&bg_color=0d1117&title_color=00BFFF&text_color=FFF&icon_color=00BFFF&border_color=00BFFF"
-            alt="Estatísticas do GitHub"
-          />
-        </a>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img
-            align="center"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=gil-cesar-martins&layout=compact&theme=transparent&bg_color=0d1117&title_color=00BFFF&text_color=FFF&icon_color=00BFFF&border_color=00BFFF"
-            alt="Linguagens mais usadas"
-          />
-        </a>
-      </p>
-
-    </td>
-  </tr>
-</table>
-
----
-
-### 💻 Tecnologias e Ferramentas
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,flutter,docker,firebase,postgres,gcp,idea&perline=4" />
-  </a>
-</p>
-> **Nota:** Usei `gcp` (Google Cloud) para representar BigQuery e Colab, e `idea` para o ecossistema de desenvolvimento. Para Streamlit, o emblema abaixo é a melhor opção.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-</p>
-
----
-
-### 📊 Atividade no GitHub
-
-<div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img
-      align="center"
-      height="250px"
-      src="https://github-readme-activity-graph.vercel.app/graph?username=gil-cesar-martins&bg_color=0d1117&color=ffffff&line=00BFFF&point=ffffff&area=true&hide_border=true"
-      alt="Gráfico de Atividade"
-    />
-  </a>
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FlutterFlow](https://img.shields.io/badge/FlutterFlow-00ABFF?style=for-the-badge&logo=flutter&logoColor=white)
