@@ -2,7 +2,7 @@
 
 Olá! 👋 Sou Gil César, um desenvolvedor Python apaixonado por criar soluções inovadoras e eficientes. Abaixo, você pode encontrar mais informações sobre minhas habilidades e como se conectar comigo.
 
-<fon color=blue>*Hello! 👋 I'm Gil César, a Python developer passionate about creating innovative and efficient solutions. Below, you can find more information about my skills and how to connect with me.*</font>
+<fon color="blue">*Hello! 👋 I'm Gil César, a Python developer passionate about creating innovative and efficient solutions. Below, you can find more information about my skills and how to connect with me.*</font>
 
 ### Redes Sociais / Social Media
 
@@ -14,7 +14,7 @@ Olá! 👋 Sou Gil César, um desenvolvedor Python apaixonado por criar soluçõ
 
 Aqui estão algumas das tecnologias e ferramentas com as quais tenho experiência:
 
-<font colr=blue>*Here are some of the technologies and tools I have experience with:*</font>
+<font colr="blue">*Here are some of the technologies and tools I have experience with:*</font>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
