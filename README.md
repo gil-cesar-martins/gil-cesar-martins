@@ -1,4 +1,4 @@
-Gil César - Desenvolvedor Python
+#Gil César - Desenvolvedor Python
 
 Olá! 👋 Sou Gil César, um desenvolvedor Python apaixonado por criar soluções inovadoras e eficientes. Abaixo, você pode encontrar mais informações sobre minhas habilidades e como se conectar comigo.
 
@@ -6,7 +6,7 @@ Olá! 👋 Sou Gil César, um desenvolvedor Python apaixonado por criar soluçõ
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gil-cesar-martins)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rockberrydata)
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/RockberryData)
+
 
 ### Tecnologias que domino
 
